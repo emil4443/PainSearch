@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#00a992</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="light_blue">#4fc3f7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorActivityTwo">#f22932</color>
+    <color name="colorActivityTwo2">#e91e63</color>
+    <color name="white">#fff</color>
+
+    <color name="colorWindow">#fff</color>
+    <color name="colorGray">#A9A9A9</color>
+    <color name="st_br_settings">#9e9e9e</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="yello">#ffb300</color>
+    <color name="yellow">#FBC02D</color>
+    <color name="green">#00bfa5</color>
+    <color name="green_two">#4CAF50</color>
+    <color name="darkblue">#000000</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="statusbar">#f0ba0d19</color>
+    <color name="statusbar2">#c2185b</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gray">#f1f1f1</color>
+    <color name="primary_dark_material_dark">#ff8484</color>
+    <color name="accent_material_dark">#ffffff</color>
+    <color name="accent_material_light">#ffffff</color>
+    <color name="primary_dark_material_dark_1">#e7272a</color>
+
+
+    <color name="black">#000</color>
+    <array name="dot_Inctive">
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+    </array>
+    <array name="dot_Active">
+        <item>@color/backgroundcolor</item>
+        <item>@color/backgroundcolor</item>
+        <item>@color/backgroundcolor</item>
+    </array>
+    <color name="colorButton">#ff2151</color>
+</resources>

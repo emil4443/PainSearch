@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:checked="true"
+            android:icon="@drawable/house_outline"
+            android:title="@string/drawer_item_home" />
+        <item
+            android:id="@+id/pain"
+            android:icon="@drawable/lifeline_in_a_heart_outline"
+            android:title="@string/drawer_item_pain" />
+        <item
+            android:id="@+id/drug"
+            android:icon="@drawable/drugs"
+            android:title="@string/drawer_item_free_analog" />
+        <group android:checkableBehavior="none">
+            <item
+                android:id="@+id/off"
+                android:icon="@drawable/turn_off"
+                android:title="@string/off" />
+        </group>
+
+
+    </group>
+
+</menu>

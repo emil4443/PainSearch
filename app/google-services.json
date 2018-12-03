@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579107418118",
+    "firebase_url": "https://pains-4e0db.firebaseio.com",
+    "project_id": "pains-4e0db",
+    "storage_bucket": "pains-4e0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579107418118:android:ab5d9708812dccf8",
+        "android_client_info": {
+          "package_name": "com.example.rrota.pain_s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579107418118-l9e8t8vo5921qrs2n0iqbrbbd5tkgdj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rrota.pain_s",
+            "certificate_hash": "c427b4c8a39d4c8355c5bc19e863881eb3265704"
+          }
+        },
+        {
+          "client_id": "579107418118-uhtiuvatgkr1fqgaig6u6eh64mgou3ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7f-xNCXosaXpFzMNS_ClN8kdrYv8T4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579107418118-uhtiuvatgkr1fqgaig6u6eh64mgou3ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
